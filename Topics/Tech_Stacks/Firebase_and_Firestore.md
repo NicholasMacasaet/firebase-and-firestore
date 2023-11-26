@@ -6,7 +6,7 @@
 
 ## Introduction:
 Firebase is an all in one platform that hosts a myriad of services that cover the development cycle of an application. It includes services such as analytics, authentication, and for what we will be covering, database management.
-
+ 
 Firestore is a NoSql document database, this means that data is structured hierarchically within collections.
 
 
