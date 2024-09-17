@@ -17,18 +17,37 @@ Potential Topics--
         1. Django Rest Framework
     3. Salesforce API
     
-    4. CSS (Cascading Style Sheets) 
-
-    5. TypeScript
-
-    6. JavaScript
+    4. CSS (Cascading Style Sheets)
     
-    7. React Native
+    5. Node.js
+
+    6. TypeScript
+
+    7. JavaScript
+    
+    8. React Native
         1. Set up
+    9. Unity
+        1. Introduction to Unity Basics
+        2. How to Organize Unity Projects
+        3. A Beginner's Guide for Unity UI Design 
+        4. Unity ML Agents Tutorial
+        5. Unity 2D Top-down Character Controller Tutorial
+    10. Python
+        1. Pythonic iteration patterns
+    11. Debugging in Python
+    12. Spring
+        1. Learning Spring Data JPA
+    13. TinyMCE API with ReactJS
+    14. SQL
+
+    15. TipTap
+    16. Tailwind
         
 - Software Tools
     1. Git
         1. Git Workflows
+    2. VS Code
 - Software Engineering
     1. Methodologies & Frameworks
         1. Agile
@@ -56,12 +75,14 @@ Potential Topics--
         1. Automated Testing
             1. Unit testings
             2. Integration testing
+            3. API testing
         2. Build tools
             1. Maven
             2. Gradle
         3. Build requirements
             1. requirements.txt
             2. packages
+            3. CMakeLists.txt
         4. Deployment
             1. Heroku
             2. AWS
@@ -76,6 +97,7 @@ Potential Topics--
     3. SOLID Principles
     4. Code Smells
     5. QA testing
+    6. Introduction to Conda (Python) 
 - Professionalism
     1. Customer engagement
         1. Meeting best practices
@@ -93,5 +115,7 @@ Potential Topics--
     4. User Experience Orientated Games
 - Product Management
     1. Beginner's guide to product management and becoming a successful product manager with case studies.
+    2. Creating A Product Development Strategy 
 - Other useful resources
 - Teamwork
+    1. Effective Leadership

@@ -37,6 +37,9 @@ JavaScript frameworks tutorial provided by Microsoft. Useful readings, but not n
 
 ### Useful React Tools and Libraries
 
+[React Toastify](./React-Toastify.md) 
+Crafting toast notifications within React applications
+
 [Create React App](https://create-react-app.dev/)
 Allows you to set up your React applications using a single command without having to configure many build tools. Provides a lot of useful functionality like instant reloads and optimizations for deployment; is the "official" React solution.
 
@@ -57,6 +60,9 @@ A fully-featured UI library that offers a huge range of common components that a
 
 [Bootstrap](https://getbootstrap.com/)
 Another responsive UI library that allows you to focus on development by handling the design logistics for you.  
+
+[Chakra UI](https://chakra-ui.com/)
+A powerful component library for React with a modern and React-centric design system that focuses on theming and responsiveness. See [An introduction to Chakra UI](./ChakraUI.md) for a tutorial on installing and utilizing Chakra UI best.
 
 ### Miscellaneous
 
